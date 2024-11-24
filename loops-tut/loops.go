@@ -9,6 +9,7 @@ func ExecLoops(){
 	fmt.Println("===Loops Tutorial===")
 	loops.ForLoop()	
 	loops.WhileLoop()
+	loops.InfiniteLoop()
 }
 
 func main(){
